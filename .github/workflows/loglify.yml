@@ -3,11 +3,11 @@ name: Logs for Netlify
 on:
   pull_request:
     branches:
-    - master
+    - add-copy
   push:
     # branches to consider in the event; optional, defaults to all
     branches:
-      - master
+      - add-copy
       
 jobs:
   logs4netlify:
