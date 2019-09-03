@@ -65,7 +65,7 @@ const Index = () => (
         <BigTitle>
           CodeNaija
         </BigTitle>
-        <Subtitle>An internation hackathon to shdsfhjgdsgfkaowcase Nigerian Developer talent</Subtitle>
+        <Subtitle>An internation hackathon to shdsfhjgdsgfkaowcargese Nigerian Developer talent</Subtitle>
       </Hero>
       <Footer>
         &copy; 2019 by Gatsby Starter Portfolio Cara.{' '}
