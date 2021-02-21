@@ -69,7 +69,7 @@ const Index = () => (
       </Hero>
       <Footer>
         &copy; 2019 by Gatsby Starter Portfolio Cara.{' '}
-        <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">GitHub Repository</a>. Made by{' '}
+        <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">GitHubret Repository</a>. Made by{' '}
         <a href="https://www.lekoarts.de">LekoArts</a>.
       </Footer>
     </Parallax>
